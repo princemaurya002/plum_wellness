@@ -28,7 +28,7 @@ Mobile (Android):
   ```
 - Run: Launch from Android Studio on an emulator or device.
 
-Demo: https://drive.google.com/drive/folders/1Wb7zx9wkiTDPBLqVujBomttsOe0WRg7T?usp=sharing
+Demo: [https://drive.google.com/drive/folders/1Wb7zx9wkiTDPBLqVujBomttsOe0WRg7T?usp=sharing](https://drive.google.com/file/d/15rrJYms_yrzpyPjpAjFVKW73IZ3LV2jU/view?usp=drive_link)
 - 
 
 ---

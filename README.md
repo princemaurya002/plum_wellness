@@ -270,7 +270,7 @@ app/
 
 - **Rate limiting and regenerate UX**
   - `generateNewTips()` can be triggered repeatedly (pull‑to‑refresh + menu). 
-  - Improvement: Debounce/throttle calls; surface a cooldown indicator; handle 429/quotas gracefully.
+  - Improvement: Debounce/throttle calls; surface a cooldown indicator; handle thes quotas gracefully.
 
 - **Room migrations and test coverage**
   - Room DAOs exist; migration strategy isn’t documented and automated tests are absent.

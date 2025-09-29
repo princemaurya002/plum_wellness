@@ -55,8 +55,8 @@ Assumptions:
 - **Method**: REST API via Retrofit (Gemini for tips/expansion; optional Google Cloud Translation for i18n).
 - **Entry points**: `WellnessViewModel.generateNewTips()` and `WellnessViewModel.expandTip()` invoke `WellnessRepository`.
 
-### Prompts used (from code)
-- **Tips Generation Prompt** (`WellnessRepository.createTipsPrompt(userProfile)`)
+### Prompts used
+- **Tips Generation Prompt** 
   - Purpose: Generate 5 personalized tips for the user profile and locale.
   - Core constraints:
     - Localize values to display language; keep JSON keys in English.
@@ -78,7 +78,7 @@ Assumptions:
     }
     ```
 
-- **Tip Expansion Prompt** (`WellnessRepository.createExpansionPrompt(tip, userProfile)`)
+- **Tip Expansion Prompt** 
   - Purpose: Produce a detailed explanation and step-by-step guide for a chosen tip.
   - Response schema:
     ```json
@@ -88,11 +88,11 @@ Assumptions:
     }
     ```
 
-- **Translation (optional)**: Uses Google Cloud Translation REST API in `translateExistingTips(...)` to translate stored fields.
+- **Translation (optional)**: Uses Google Cloud Translation REST API to translate stored fields.
 
-#### Exact prompts (verbatim from code)
+#### Exact prompts
 
-- Tips generation (`createTipsPrompt`):
+- Tips generation:
   ```text
   Generate 5 highly personalized wellness tips for a {age}-year-old {gender}{heightWeightInfo}{bmiInfo} 
   whose primary health goal is {primaryGoal}.
@@ -141,7 +141,7 @@ Assumptions:
   - Address their specific health goals and any secondary goals
   ```
 
-- Tip expansion (`createExpansionPrompt`):
+- Tip expansion:
   ```text
   Expand this wellness tip with detailed information:
   

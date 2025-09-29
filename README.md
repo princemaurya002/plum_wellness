@@ -280,10 +280,6 @@ app/
   - `stringResourceLocalized(...)` is used, but some strings in UI are still hardcoded.
   - Improvement: Move all UI strings to `strings.xml`, add translations, and verify RTL support and font fallback.
 
-- **UI consistency for pull‑to‑refresh**
-  - Custom non‑spinner indicator was prototyped; currently the default spinner is restored in code while README mentions the custom indicator.
-  - Improvement: Pick one approach; if custom, encapsulate and add tests/preview; if default, update README accordingly.
-
 ---
 
 

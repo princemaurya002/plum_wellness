@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Placeholder branding drawable. Replace with a PNG that contains the text "-by Prince Maurya" for best fidelity. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="24dp"
+    android:viewportWidth="200"
+    android:viewportHeight="24">
+    <!-- Simple underline bar as placeholder branding -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M0,22 H200 V24 H0 Z" />
+</vector>

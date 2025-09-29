@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Plum Wellness</string>
+
+    <!-- Profile Screen -->
+    <string name="welcome_title">तुमच्या वेलनेस प्रवासात स्वागत!</string>
+    <string name="profile_subtitle">चला तुमचा वैयक्तिक वेलनेस प्रोफाइल तयार करूया</string>
+    <string name="name_hint">तुमचे नाव</string>
+    <string name="age_hint">वय</string>
+    <string name="gender_label">लिंग</string>
+    <string name="health_goal_label">आरोग्य उद्दिष्ट</string>
+    <string name="create_profile_button">माझे प्रोफाइल तयार करा</string>
+    <string name="edit_profile_button">माझे प्रोफाइल अपडेट करा</string>
+    <string name="profile_title_create">तुमचे वेलनेस प्रोफाइल तयार करा 🌟</string>
+    <string name="profile_title_edit">तुमचे प्रोफाइल संपादित करा 🌟</string>
+    <string name="profile_subtitle_create">वैयक्तिक वेलनेस टिप्ससाठी तुमच्याबद्दल सांगा</string>
+    <string name="profile_subtitle_edit">चांगल्या वैयक्तिक टिप्ससाठी तुमची माहिती अपडेट करा</string>
+    <string name="basic_information">मूलभूत माहिती</string>
+    <string name="full_name">पूर्ण नाव *</string>
+    <string name="age">वय *</string>
+    <string name="gender">लिंग</string>
+    <string name="height_cm">उंची (सेमी)</string>
+    <string name="weight_kg">वजन (किलो)</string>
+    <string name="health_goals">आरोग्य उद्दिष्टे</string>
+    <string name="primary_goal">प्राथमिक उद्दिष्ट *</string>
+    <string name="lifestyle">जीवनशैली</string>
+    <string name="activity_level">क्रियाकलाप पातळी</string>
+    <string name="exercise_preferences">व्यायाम प्राधान्ये</string>
+    <string name="daily_wellness_time">दैनंदिन वेलनेस वेळ</string>
+    <string name="dietary_preferences">आहार प्राधान्ये</string>
+    <string name="dietary_preference">आहार प्राधान्य</string>
+    <string name="diet_style_optional">आहार शैली (पर्यायी)</string>
+    <string name="mental_wellness">मानसिक वेलनेस</string>
+    <string name="stress_level">ताण पातळी</string>
+    <string name="mindfulness_experience">माइंडफुलनेस अनुभव</string>
+    <string name="work_style">काम शैली</string>
+    <string name="screen_time">स्क्रीन वेळ</string>
+    <string name="motivation_style">प्रेरणा शैली</string>
+    <string name="favorite_activities">आवडत्या क्रियाकलाप</string>
+    <string name="additional_info">अतिरिक्त माहिती (पर्यायी)</string>
+    <string name="switch_to_light_mode">लाइट मोडमध्ये बदला</string>
+    <string name="switch_to_dark_mode">डार्क मोडमध्ये बदला</string>
+
+    <!-- Wellness Board -->
+    <string name="wellness_board_title">तुमचा वेलनेस बोर्ड</string>
+    <string name="generate_tips_button">टिप्स तयार करा</string>
+    <string name="regenerate_tips">टिप्स पुन्हा तयार करा</string>
+    <string name="loading_generate_tips">तुमच्यासाठी वैयक्तिक वेलनेस टिप्स तयार करत आहोत…</string>
+    <string name="empty_state_title">तुम्ही तुमचा वेलनेस प्रवास सुरू करण्यास तयार आहात का?</string>
+    <string name="empty_state_subtitle">तुमच्या प्रोफाइलवर आधारित वैयक्तिक वेलनेस टिप्स तयार करा</string>
+    <string name="open_menu">मेनू उघडा</string>
+    <string name="favorites">आवडते</string>
+
+    <!-- Tip Detail -->
+    <string name="tip_detail_title">वेलनेस टिप</string>
+    <string name="detailed_explanation">सविस्तर स्पष्टीकरण</string>
+    <string name="step_by_step_guide">पायरी-पायरी मार्गदर्शक</string>
+    <string name="tap_to_learn_more">अधिक जाणून घेण्यासाठी टॅप करा</string>
+
+    <!-- Favorites -->
+    <string name="favorites_title">आवडत्या टिप्स</string>
+    <string name="favorite_count">आवडत्या टिप्स</string>
+    <string name="loading_favorites">तुमच्या आवडत्या टिप्स लोड होत आहेत…</string>
+    <string name="empty_favorites_title">अजून कोणत्याही आवडत्या टिप्स नाहीत</string>
+    <string name="empty_favorites_subtitle">वेलनेस टिप्स पाहा आणि आवडल्यास हार्टवर टॅप करा, त्या येथे दिसतील!</string>
+    <string name="explore_tips">टिप्स पाहा</string>
+    <string name="remove_from_favorites">आवडत्यांमधून काढा</string>
+
+    <!-- Common -->
+    <string name="loading">लोड होत आहे…</string>
+    <string name="error_generic">काहीतरी चुकीचे झाले. कृपया पुन्हा प्रयत्न करा.</string>
+    <string name="retry">पुन्हा प्रयत्न करा</string>
+    <string name="dismiss">बंद करा</string>
+    <string name="back">मागे</string>
+    <string name="favorite">आवडते</string>
+    <string name="expand">विस्तार करा</string>
+    <string name="close_menu">मेनू बंद करा</string>
+    <string name="menu">मेनू</string>
+    <string name="dark_mode">डार्क मोड</string>
+    <string name="light_mode">लाइट मोड</string>
+    <string name="toggle_theme">थीम बदला</string>
+    <string name="edit_profile">प्रोफाइल संपादित करा</string>
+    <string name="update_your_information">तुमची माहिती अपडेट करा</string>
+    <string name="get_new_wellness_tips">नवीन वेलनेस टिप्स मिळवा</string>
+    <string name="language">भाषा</string>
+    <string name="select_language">भाषा निवडा</string>
+    <string name="english">इंग्रजी</string>
+    <string name="hindi">हिंदी</string>
+    <string name="bengali">बंगाली</string>
+    <string name="tamil">तमिळ</string>
+    <string name="telugu">तेलुगू</string>
+    <string name="marathi">मराठी</string>
+    <string name="change_app_language">ॲपची भाषा बदला</string>
+
+    <!-- API Key Dialog -->
+    <string name="api_key_dialog_title">OpenAI API की</string>
+    <string name="api_key_dialog_message">वैयक्तिक वेलनेस टिप्स तयार करण्यासाठी तुमची OpenAI API की प्रविष्ट करा:</string>
+    <string name="api_key_hint">API की</string>
+    <string name="expand_tip_dialog_title">टिप तपशील विस्तार करा</string>
+    <string name="expand_tip_dialog_message">सविस्तर स्पष्टीकरण आणि पायरी-पायरी मार्गदर्शनासाठी OpenAI API की प्रविष्ट करा:</string>
+</resources>
+

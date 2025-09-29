@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Plum Wellness</string>
+
+    <!-- Profile Screen -->
+    <string name="welcome_title">మీ వెల్‌నెస్ ప్రయాణానికి స్వాగతం!</string>
+    <string name="profile_subtitle">మీ వ్యక్తిగత వెల్‌నెస్ ప్రొఫైల్‌ను సృష్టిద్దాం</string>
+    <string name="name_hint">మీ పేరు</string>
+    <string name="age_hint">వయసు</string>
+    <string name="gender_label">లింగం</string>
+    <string name="health_goal_label">ఆరోగ్య లక్ష్యం</string>
+    <string name="create_profile_button">నా ప్రొఫైల్ సృష్టించు</string>
+    <string name="edit_profile_button">నా ప్రొఫైల్ అప్డేట్ చేయండి</string>
+    <string name="profile_title_create">మీ వెల్‌నెస్ ప్రొఫైల్ సృష్టించండి 🌟</string>
+    <string name="profile_title_edit">మీ ప్రొఫైల్ సవరించండి 🌟</string>
+    <string name="profile_subtitle_create">వ్యక్తిగత వెల్‌నెస్ సూచనల కోసం మీ గురించి చెప్పండి</string>
+    <string name="profile_subtitle_edit">మెరుగైన వ్యక్తిగత సూచనల కోసం మీ సమాచారాన్ని అప్డేట్ చేయండి</string>
+    <string name="basic_information">ప్రాథమిక సమాచారం</string>
+    <string name="full_name">పూర్తి పేరు *</string>
+    <string name="age">వయసు *</string>
+    <string name="gender">లింగం</string>
+    <string name="height_cm">ఎత్తు (సెం.మీ)</string>
+    <string name="weight_kg">భారం (కిలోలు)</string>
+    <string name="health_goals">ఆరోగ్య లక్ష్యాలు</string>
+    <string name="primary_goal">ప్రాథమిక లక్ష్యం *</string>
+    <string name="lifestyle">జీవనశైలి</string>
+    <string name="activity_level">కార్యకలాప స్థాయి</string>
+    <string name="exercise_preferences">వ్యాయామ ప్రాధాన్యతలు</string>
+    <string name="daily_wellness_time">రోజువారీ వెల్‌నెస్ సమయం</string>
+    <string name="dietary_preferences">ఆహార ప్రాధాన్యతలు</string>
+    <string name="dietary_preference">ఆహార ప్రాధాన్యత</string>
+    <string name="diet_style_optional">ఆహార శైలి (ఐచ్ఛికం)</string>
+    <string name="mental_wellness">మానసిక వెల్‌నెస్</string>
+    <string name="stress_level">ఒత్తిడి స్థాయి</string>
+    <string name="mindfulness_experience">మైండ్ఫుల్నెస్ అనుభవం</string>
+    <string name="work_style">పని శైలి</string>
+    <string name="screen_time">స్క్రీన్ సమయం</string>
+    <string name="motivation_style">ప్రేరణ శైలి</string>
+    <string name="favorite_activities">ఇష్టమైన కార్యకలాపాలు</string>
+    <string name="additional_info">అదనపు సమాచారం (ఐచ్ఛికం)</string>
+    <string name="switch_to_light_mode">లైట్ మోడ్‌కు మారండి</string>
+    <string name="switch_to_dark_mode">డార్క్ మోడ్‌కు మారండి</string>
+
+    <!-- Wellness Board -->
+    <string name="wellness_board_title">మీ వెల్‌నెస్ బోర్డు</string>
+    <string name="generate_tips_button">సూచనలు రూపొందించు</string>
+    <string name="regenerate_tips">సూచనలు మళ్లీ రూపొందించు</string>
+    <string name="loading_generate_tips">మీకు వ్యక్తిగత వెల్‌నెస్ సూచనలు సిద్ధం చేస్తున్నాం…</string>
+    <string name="empty_state_title">మీ వెల్‌నెస్ ప్రయాణాన్ని ప్రారంభించడానికి సిద్ధమా?</string>
+    <string name="empty_state_subtitle">మీ ప్రొఫైల్ ఆధారంగా వ్యక్తిగత వెల్‌నెస్ సూచనలు రూపొందించండి</string>
+    <string name="open_menu">మెను తెరవండి</string>
+    <string name="favorites">ఇష్టమైనవి</string>
+
+    <!-- Tip Detail -->
+    <string name="tip_detail_title">వెల్‌నెస్ సూచన</string>
+    <string name="detailed_explanation">వివరమైన వివరణ</string>
+    <string name="step_by_step_guide">దశల వారీ మార్గదర్శకం</string>
+    <string name="tap_to_learn_more">మరింత తెలుసుకోవడానికి ట్యాప్ చేయండి</string>
+
+    <!-- Favorites -->
+    <string name="favorites_title">ఇష్టమైన సూచనలు</string>
+    <string name="favorite_count">ఇష్టమైన సూచనలు</string>
+    <string name="loading_favorites">మీ ఇష్టమైన సూచనలు లోడ్ అవుతున్నాయి…</string>
+    <string name="empty_favorites_title">ఇప్పటివరకు ఇష్టమైన సూచనలు లేవు</string>
+    <string name="empty_favorites_subtitle">వెల్‌నెస్ సూచనలను అన్వేషించి, ఇష్టమైతే హార్ట్ నొక్కండి, అవి ఇక్కడ కనిపిస్తాయి!</string>
+    <string name="explore_tips">సూచనలను చూడండి</string>
+    <string name="remove_from_favorites">ఇష్టాల నుంచి తీసివేయి</string>
+
+    <!-- Common -->
+    <string name="loading">లోడ్ అవుతోంది…</string>
+    <string name="error_generic">ఏదో తప్పు జరిగింది. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="retry">మళ్లీ ప్రయత్నించండి</string>
+    <string name="dismiss">మూసివేయి</string>
+    <string name="back">వెనక్కి</string>
+    <string name="favorite">ఇష్టం</string>
+    <string name="expand">విస్తరించు</string>
+    <string name="close_menu">మెను మూసివేయి</string>
+    <string name="menu">మెನು</string>
+    <string name="dark_mode">డార్క్ మోడ్</string>
+    <string name="light_mode">లైట్ మోడ్</string>
+    <string name="toggle_theme">థీమ్ మార్చండి</string>
+    <string name="edit_profile">ప్రొఫైల్ మార్చండి</string>
+    <string name="update_your_information">మీ సమాచారాన్ని అప్డేట్ చేయండి</string>
+    <string name="get_new_wellness_tips">కొత్త వెల్‌నెస్ సూచనలు పొందండి</string>
+    <string name="language">భాష</string>
+    <string name="select_language">భాషను ఎంచుకోండి</string>
+    <string name="english">ఆంగ్లం</string>
+    <string name="hindi">హిందీ</string>
+    <string name="bengali">బెంగాలీ</string>
+    <string name="tamil">తమిళం</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="marathi">మరాఠీ</string>
+    <string name="change_app_language">యాప్ భాషను మార్చండి</string>
+
+    <!-- API Key Dialog -->
+    <string name="api_key_dialog_title">OpenAI API కీ</string>
+    <string name="api_key_dialog_message">వ్యక్తిగత వెల్‌నెస్ సూచనలను రూపొందించడానికి మీ OpenAI API కీని నమోదు చేయండి:</string>
+    <string name="api_key_hint">API కీ</string>
+    <string name="expand_tip_dialog_title">సూచన వివరాలను విస్తరించు</string>
+    <string name="expand_tip_dialog_message">వివరమైన వివరణ మరియు దశల వారీ గైడ్ కోసం OpenAI API కీని నమోదు చేయండి:</string>
+</resources>
+

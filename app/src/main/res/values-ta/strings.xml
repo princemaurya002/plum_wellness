@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Plum Wellness</string>
+
+    <!-- Profile Screen -->
+    <string name="welcome_title">உங்கள் நலன் பயணத்திற்கு வரவேற்கிறோம்!</string>
+    <string name="profile_subtitle">உங்கள் தனிப்பட்ட நலன் சுயவிவரத்தை உருவாக்குவோம்</string>
+    <string name="name_hint">உங்கள் பெயர்</string>
+    <string name="age_hint">வயது</string>
+    <string name="gender_label">பாலினம்</string>
+    <string name="health_goal_label">சுகாதார இலக்கு</string>
+    <string name="create_profile_button">என் சுயவிவரம் உருவாக்கு</string>
+    <string name="edit_profile_button">என் சுயவிவரத்தை புதுப்பிக்கவும்</string>
+    <string name="profile_title_create">உங்கள் நலன் சுயவிவரத்தை உருவாக்குங்கள் 🌟</string>
+    <string name="profile_title_edit">உங்கள் சுயவிவரத்தை திருத்துங்கள் 🌟</string>
+    <string name="profile_subtitle_create">தனிப்பட்ட நலன் குறிப்புகளுக்கு உங்களைப் பற்றி சொல்லுங்கள்</string>
+    <string name="profile_subtitle_edit">சிறந்த தனிப்பட்ட குறிப்புகளுக்கு உங்கள் தகவலை புதுப்பிக்கவும்</string>
+    <string name="basic_information">அடிப்படை தகவல்</string>
+    <string name="full_name">முழு பெயர் *</string>
+    <string name="age">வயது *</string>
+    <string name="gender">பாலினம்</string>
+    <string name="height_cm">உயரம் (செமீ)</string>
+    <string name="weight_kg">எடை (கிலோ)</string>
+    <string name="health_goals">சுகாதார இலக்குகள்</string>
+    <string name="primary_goal">முதன்மை இலக்கு *</string>
+    <string name="lifestyle">வாழ்க்கை முறை</string>
+    <string name="activity_level">செயல்பாட்டு நிலை</string>
+    <string name="exercise_preferences">பயிற்சி விருப்பங்கள்</string>
+    <string name="daily_wellness_time">தினசரி நலன் நேரம்</string>
+    <string name="dietary_preferences">உணவு விருப்பங்கள்</string>
+    <string name="dietary_preference">உணவு விருப்பம்</string>
+    <string name="diet_style_optional">உணவு பாணி (விருப்பமானது)</string>
+    <string name="mental_wellness">மன நலன்</string>
+    <string name="stress_level">மன அழுத்த நிலை</string>
+    <string name="mindfulness_experience">மனவிழிப்பு அனுபவம்</string>
+    <string name="work_style">வேலை பாணி</string>
+    <string name="screen_time">திரை நேரம்</string>
+    <string name="motivation_style">உந்துதல் பாணி</string>
+    <string name="favorite_activities">பிடித்த செயல்பாடுகள்</string>
+    <string name="additional_info">கூடுதல் தகவல் (விருப்பமானது)</string>
+    <string name="switch_to_light_mode">லைட் மோடுக்கு மாறவும்</string>
+    <string name="switch_to_dark_mode">டார்க் மோடுக்கு மாறவும்</string>
+
+    <!-- Wellness Board -->
+    <string name="wellness_board_title">உங்கள் நலன் பலகை</string>
+    <string name="generate_tips_button">குறிப்புகளை உருவாக்கு</string>
+    <string name="regenerate_tips">குறிப்புகளை மீண்டும் உருவாக்கு</string>
+    <string name="loading_generate_tips">உங்களுக்கு தனிப்பட்ட நலன் குறிப்புகள் தயாராகின்றன…</string>
+    <string name="empty_state_title">உங்கள் நலன் பயணத்தை துவங்க தயாரா?</string>
+    <string name="empty_state_subtitle">உங்கள் சுயவிவரத்தின் அடிப்படையில் தனிப்பட்ட குறிப்புகளை உருவாக்குங்கள்</string>
+    <string name="open_menu">பட்டியைத் திற</string>
+    <string name="favorites">பிடித்தவை</string>
+
+    <!-- Tip Detail -->
+    <string name="tip_detail_title">நலன் குறிப்பு</string>
+    <string name="detailed_explanation">விரிவான விளக்கம்</string>
+    <string name="step_by_step_guide">படிப்படியாக வழிகாட்டி</string>
+    <string name="tap_to_learn_more">மேலும் அறிய தட்டவும்</string>
+
+    <!-- Favorites -->
+    <string name="favorites_title">பிடித்த குறிப்புகள்</string>
+    <string name="favorite_count">பிடித்த குறிப்புகள்</string>
+    <string name="loading_favorites">உங்கள் பிடித்த குறிப்புகள் ஏற்றப்படுகிறது…</string>
+    <string name="empty_favorites_title">இன்னும் பிடித்த குறிப்புகள் இல்லை</string>
+    <string name="empty_favorites_subtitle">நலன் குறிப்புகளை ஆராய்ந்து, பிடித்ததை இதயம் சின்னம் அழுத்தி இங்கே காணுங்கள்!</string>
+    <string name="explore_tips">குறிப்புகளை பார்க்க</string>
+    <string name="remove_from_favorites">பிடித்தவை இருந்து நீக்கு</string>
+
+    <!-- Common -->
+    <string name="loading">ஏற்றப்படுகிறது…</string>
+    <string name="error_generic">ஏதோ தவறு ஏற்பட்டது. மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="retry">மீண்டும் முயற்சி</string>
+    <string name="dismiss">மூடு</string>
+    <string name="back">மீண்டும்</string>
+    <string name="favorite">பிடித்தவை</string>
+    <string name="expand">விரிவாக்கு</string>
+    <string name="close_menu">பட்டியை மூடு</string>
+    <string name="menu">பட்டி</string>
+    <string name="dark_mode">டார்க் மோடு</string>
+    <string name="light_mode">லைட் மோடு</string>
+    <string name="toggle_theme">தீமைக் மாற்று</string>
+    <string name="edit_profile">சுயவிவரத்தை திருத்து</string>
+    <string name="update_your_information">உங்கள் தகவலைப் புதுப்பிக்கவும்</string>
+    <string name="get_new_wellness_tips">புதிய நலன் குறிப்புகளைப் பெற</string>
+    <string name="language">மொழி</string>
+    <string name="select_language">மொழியைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="english">ஆங்கிலம்</string>
+    <string name="hindi">ஹிந்தி</string>
+    <string name="bengali">வங்காளம்</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">தெலுங்கு</string>
+    <string name="marathi">மராத்தி</string>
+    <string name="change_app_language">ஆப்ஸ் மொழியை மாற்றவும்</string>
+
+    <!-- API Key Dialog -->
+    <string name="api_key_dialog_title">OpenAI API விசை</string>
+    <string name="api_key_dialog_message">தனிப்பட்ட நலன் குறிப்புகளை உருவாக்க உங்கள் OpenAI API விசையை உள்ளிடவும்:</string>
+    <string name="api_key_hint">API விசை</string>
+    <string name="expand_tip_dialog_title">குறிப்பு விவரங்களை விரிவாக்கு</string>
+    <string name="expand_tip_dialog_message">விரிவான விளக்கம் மற்றும் படிப்படியாக வழிகாட்டிக்காக OpenAI API விசையை உள்ளிடவும்:</string>
+</resources>
+

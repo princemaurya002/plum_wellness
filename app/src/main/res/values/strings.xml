@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Plum Wellness</string>
+    
+    <!-- Profile Screen -->
+    <string name="welcome_title">Welcome to Your Wellness Journey!</string>
+    <string name="profile_subtitle">Let\'s create your personalized wellness profile</string>
+    <string name="name_hint">Your Name</string>
+    <string name="age_hint">Age</string>
+    <string name="gender_label">Gender</string>
+    <string name="health_goal_label">Health Goal</string>
+    <string name="create_profile_button">Create My Profile</string>
+    <string name="edit_profile_button">Update My Profile</string>
+    <string name="profile_title_create">Create Your Wellness Profile 🌟</string>
+    <string name="profile_title_edit">Edit Your Profile 🌟</string>
+    <string name="profile_subtitle_create">Tell us about yourself to get personalized wellness tips</string>
+    <string name="profile_subtitle_edit">Update your information to get better personalized tips</string>
+    <string name="basic_information">Basic Information</string>
+    <string name="full_name">Full Name *</string>
+    <string name="age">Age *</string>
+    <string name="gender">Gender</string>
+    <string name="height_cm">Height (cm)</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="health_goals">Health Goals</string>
+    <string name="primary_goal">Primary Goal *</string>
+    <string name="lifestyle">Lifestyle</string>
+    <string name="activity_level">Activity Level</string>
+    <string name="exercise_preferences">Exercise Preferences</string>
+    <string name="daily_wellness_time">Daily Wellness Time</string>
+    <string name="dietary_preferences">Dietary Preferences</string>
+    <string name="dietary_preference">Dietary Preference</string>
+    <string name="diet_style_optional">Diet Style (Optional)</string>
+    <string name="mental_wellness">Mental Wellness</string>
+    <string name="stress_level">Stress Level</string>
+    <string name="mindfulness_experience">Mindfulness Experience</string>
+    <string name="work_style">Work Style</string>
+    <string name="screen_time">Screen Time</string>
+    <string name="motivation_style">Motivation Style</string>
+    <string name="favorite_activities">Favorite Activities</string>
+    <string name="additional_info">Additional Information (Optional)</string>
+    <string name="switch_to_light_mode">Switch to Light Mode</string>
+    <string name="switch_to_dark_mode">Switch to Dark Mode</string>
+    
+    <!-- Wellness Board -->
+    <string name="wellness_board_title">Your Wellness Board</string>
+    <string name="generate_tips_button">Generate Tips</string>
+    <string name="regenerate_tips">Regenerate Tips</string>
+    <string name="loading_generate_tips">Generating your personalized wellness tips...</string>
+    <string name="empty_state_title">Ready to start your wellness journey?</string>
+    <string name="empty_state_subtitle">Generate personalized wellness tips based on your profile</string>
+    <string name="open_menu">Open Menu</string>
+    <string name="favorites">Favorites</string>
+    
+    <!-- Tip Detail -->
+    <string name="tip_detail_title">Wellness Tip</string>
+    <string name="detailed_explanation">Detailed Explanation</string>
+    <string name="step_by_step_guide">Step-by-Step Guide</string>
+    <string name="tap_to_learn_more">Tap to learn more</string>
+    
+    <!-- Favorites -->
+    <string name="favorites_title">Favorite Tips</string>
+    <string name="favorite_count">Favorite Tips</string>
+    <string name="loading_favorites">Loading your favorite tips...</string>
+    <string name="empty_favorites_title">No favorite tips yet</string>
+    <string name="empty_favorites_subtitle">Start exploring wellness tips and heart the ones you love to see them here!</string>
+    <string name="explore_tips">Explore Tips</string>
+    <string name="remove_from_favorites">Remove from Favorites</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading...</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="retry">Retry</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="back">Back</string>
+    <string name="favorite">Favorite</string>
+    <string name="expand">Expand</string>
+    <string name="close_menu">Close Menu</string>
+    <string name="menu">Menu</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="toggle_theme">Toggle theme</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="update_your_information">Update your information</string>
+    <string name="get_new_wellness_tips">Get new wellness tips</string>
+    <string name="language">Language</string>
+    <string name="select_language">Select Language</string>
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="bengali">বাংলা</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="marathi">मराठी</string>
+    <string name="change_app_language">Change app language</string>
+    
+    <!-- API Key Dialog -->
+    <string name="api_key_dialog_title">OpenAI API Key</string>
+    <string name="api_key_dialog_message">Enter your OpenAI API key to generate personalized wellness tips:</string>
+    <string name="api_key_hint">API Key</string>
+    <string name="expand_tip_dialog_title">Expand Tip Details</string>
+    <string name="expand_tip_dialog_message">Enter your OpenAI API key to get detailed explanations and step-by-step guidance:</string>
+</resources>

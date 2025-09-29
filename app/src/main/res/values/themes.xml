@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Plum_pm" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- Splash Theme for Android 12+ SplashScreen API -->
+    <style name="Theme.Plum_pm.Splash" parent="Theme.SplashScreen">
+        <!-- Background color of the splash screen -->
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <!-- Animated icon shown during splash -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo</item>
+        <!-- Branding image requires newer core-splashscreen; removed to keep build stable -->
+        <!-- After splash finishes, apply the normal app theme -->
+        <item name="postSplashScreenTheme">@style/Theme.Plum_pm</item>
+    </style>
+</resources>

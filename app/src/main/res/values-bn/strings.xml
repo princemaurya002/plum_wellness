@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Plum Wellness</string>
+
+    <!-- Profile Screen -->
+    <string name="welcome_title">আপনার ওয়েলনেস যাত্রায় স্বাগতম!</string>
+    <string name="profile_subtitle">চলুন আপনার ব্যক্তিগত ওয়েলনেস প্রোফাইল তৈরি করি</string>
+    <string name="name_hint">আপনার নাম</string>
+    <string name="age_hint">বয়স</string>
+    <string name="gender_label">লিঙ্গ</string>
+    <string name="health_goal_label">স্বাস্থ্য লক্ষ্য</string>
+    <string name="create_profile_button">আমার প্রোফাইল তৈরি করুন</string>
+    <string name="edit_profile_button">আমার প্রোফাইল আপডেট করুন</string>
+    <string name="profile_title_create">আপনার ওয়েলনেস প্রোফাইল তৈরি করুন 🌟</string>
+    <string name="profile_title_edit">আপনার প্রোফাইল সম্পাদনা করুন 🌟</string>
+    <string name="profile_subtitle_create">ব্যক্তিগত ওয়েলনেস টিপসের জন্য আপনার সম্পর্কে বলুন</string>
+    <string name="profile_subtitle_edit">ভালো ব্যক্তিগত টিপসের জন্য আপনার তথ্য আপডেট করুন</string>
+    <string name="basic_information">মৌলিক তথ্য</string>
+    <string name="full_name">পূর্ণ নাম *</string>
+    <string name="age">বয়স *</string>
+    <string name="gender">লিঙ্গ</string>
+    <string name="height_cm">উচ্চতা (সেমি)</string>
+    <string name="weight_kg">ওজন (কেজি)</string>
+    <string name="health_goals">স্বাস্থ্য লক্ষ্য</string>
+    <string name="primary_goal">প্রাথমিক লক্ষ্য *</string>
+    <string name="lifestyle">জীবনধারা</string>
+    <string name="activity_level">কার্যকলাপের স্তর</string>
+    <string name="exercise_preferences">ব্যায়ামের পছন্দ</string>
+    <string name="daily_wellness_time">দৈনিক ওয়েলনেস সময়</string>
+    <string name="dietary_preferences">খাদ্যতালিকাগত পছন্দ</string>
+    <string name="dietary_preference">খাদ্যতালিকাগত পছন্দ</string>
+    <string name="diet_style_optional">খাদ্যের ধরন (ঐচ্ছিক)</string>
+    <string name="mental_wellness">মানসিক ওয়েলনেস</string>
+    <string name="stress_level">মানসিক চাপের স্তর</string>
+    <string name="mindfulness_experience">মনোযোগ অভিজ্ঞতা</string>
+    <string name="work_style">কাজের ধরন</string>
+    <string name="screen_time">স্ক্রিন সময়</string>
+    <string name="motivation_style">উদ্দীপনা ধরন</string>
+    <string name="favorite_activities">প্রিয় কার্যকলাপ</string>
+    <string name="additional_info">অতিরিক্ত তথ্য (ঐচ্ছিক)</string>
+    <string name="switch_to_light_mode">লাইট মোডে পরিবর্তন করুন</string>
+    <string name="switch_to_dark_mode">ডার্ক মোডে পরিবর্তন করুন</string>
+
+    <!-- Wellness Board -->
+    <string name="wellness_board_title">আপনার ওয়েলনেস বোর্ড</string>
+    <string name="generate_tips_button">টিপস জেনারেট করুন</string>
+    <string name="regenerate_tips">টিপস পুনরায় জেনারেট</string>
+    <string name="loading_generate_tips">আপনার জন্য ব্যক্তিগত ওয়েলনেস টিপস তৈরি করা হচ্ছে…</string>
+    <string name="empty_state_title">আপনি কি আপনার ওয়েলনেস যাত্রা শুরু করতে প্রস্তুত?</string>
+    <string name="empty_state_subtitle">আপনার প্রোফাইলের ভিত্তিতে ব্যক্তিগতকৃত ওয়েলনেস টিপস জেনারেট করুন</string>
+    <string name="open_menu">মেনু খুলুন</string>
+    <string name="favorites">ফেভারিট</string>
+
+    <!-- Tip Detail -->
+    <string name="tip_detail_title">ওয়েলনেস টিপ</string>
+    <string name="detailed_explanation">বিস্তারিত ব্যাখ্যা</string>
+    <string name="step_by_step_guide">ধাপে ধাপে নির্দেশিকা</string>
+    <string name="tap_to_learn_more">আরও জানতে ট্যাপ করুন</string>
+
+    <!-- Favorites -->
+    <string name="favorites_title">পছন্দের টিপস</string>
+    <string name="favorite_count">পছন্দের টিপস</string>
+    <string name="loading_favorites">আপনার পছন্দের টিপস লোড হচ্ছে…</string>
+    <string name="empty_favorites_title">এখনও কোনো পছন্দের টিপ নেই</string>
+    <string name="empty_favorites_subtitle">ওয়েলনেস টিপস এক্সপ্লোর করুন এবং ভালো লাগলে হার্ট চিহ্ন চাপুন, এখানে দেখাবে!</string>
+    <string name="explore_tips">টিপস এক্সপ্লোর করুন</string>
+    <string name="remove_from_favorites">পছন্দ থেকে সরান</string>
+
+    <!-- Common -->
+    <string name="loading">লোড হচ্ছে…</string>
+    <string name="error_generic">কিছু ভুল হয়েছে। আবার চেষ্টা করুন।</string>
+    <string name="retry">পুনরায় চেষ্টা</string>
+    <string name="dismiss">বন্ধ করুন</string>
+    <string name="back">ফিরে যান</string>
+    <string name="favorite">পছন্দ</string>
+    <string name="expand">বিস্তার</string>
+    <string name="close_menu">মেনু বন্ধ করুন</string>
+    <string name="menu">মেনু</string>
+    <string name="dark_mode">ডার্ক মোড</string>
+    <string name="light_mode">লাইট মোড</string>
+    <string name="toggle_theme">থিম পরিবর্তন করুন</string>
+    <string name="edit_profile">প্রোফাইল সম্পাদনা</string>
+    <string name="update_your_information">আপনার তথ্য আপডেট করুন</string>
+    <string name="get_new_wellness_tips">নতুন ওয়েলনেস টিপস পান</string>
+    <string name="language">ভাষা</string>
+    <string name="select_language">ভাষা নির্বাচন করুন</string>
+    <string name="english">ইংরেজি</string>
+    <string name="hindi">হিন্দি</string>
+    <string name="bengali">বাংলা</string>
+    <string name="tamil">তামিল</string>
+    <string name="telugu">তেলেগু</string>
+    <string name="marathi">মারাঠি</string>
+    <string name="change_app_language">অ্যাপের ভাষা পরিবর্তন করুন</string>
+
+    <!-- API Key Dialog -->
+    <string name="api_key_dialog_title">OpenAI API কী</string>
+    <string name="api_key_dialog_message">ব্যক্তিগতকৃত ওয়েলনেস টিপস তৈরির জন্য আপনার OpenAI API কী লিখুন:</string>
+    <string name="api_key_hint">API কী</string>
+    <string name="expand_tip_dialog_title">টিপ বিস্তারিত বাড়ান</string>
+    <string name="expand_tip_dialog_message">বিস্তারিত ব্যাখ্যা ও ধাপে ধাপে গাইডের জন্য OpenAI API কী লিখুন:</string>
+</resources>
+

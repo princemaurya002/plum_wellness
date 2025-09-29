@@ -284,19 +284,8 @@ app/
   - Custom non‑spinner indicator was prototyped; currently the default spinner is restored in code while README mentions the custom indicator.
   - Improvement: Pick one approach; if custom, encapsulate and add tests/preview; if default, update README accordingly.
 
-- **Analytics/telemetry (optional)**
-  - No visibility into regenerate usage, favorites adoption, or language switches.
-  - Improvement: Add privacy‑respecting analytics events (local or pluggable) for iterative UX tuning.
-
-- **CI/CD (optional)**
-  - No documented pipeline for builds, static analysis, and unit tests.
-  - Improvement: Add a GitHub Actions workflow for `./gradlew assembleDebug test lint` and artifact upload.
-
 ---
 
-
-can you improve this section
----
 
 ## 7) Bonus Work / Extra Features
 

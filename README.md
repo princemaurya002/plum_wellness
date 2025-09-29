@@ -238,17 +238,6 @@ Pattern: MVVM + Hilt DI + Jetpack Compose
 ### Theming & Resources
 - Material 3 theme in `res/values/themes.xml`.
 - Adaptive icons in `res/mipmap-anydpi-v26/ic_launcher*.xml` using `@drawable/logo`.
-Mermaid (high-level):
-```mermaid
-flowchart TD
-    A[MainActivity] --> B[AppNavigator]
-    B --> C[WellnessBoardScreen]
-    B --> D[FavoritesScreen]
-    C -->|Hilt| E[WellnessViewModel]
-    D -->|Hilt| E
-    E -->|Flow<UIState>| C
-    E -->|Flow<UIState>| D
-```
 
 
 
@@ -272,9 +261,6 @@ app/
 
 ---
 
----
-
-## 6) Known Issues / Improvements
 
 ## 6) Known Issues / Improvements
 
